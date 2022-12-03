@@ -1,0 +1,15 @@
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\bin\Debug\net6.0\Episode 1.exe
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\bin\Debug\net6.0\Episode 1.deps.json
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\bin\Debug\net6.0\Episode 1.runtimeconfig.json
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\bin\Debug\net6.0\Episode 1.dll
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\bin\Debug\net6.0\Episode 1.pdb
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.csproj.AssemblyReference.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.AssemblyInfoInputs.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.AssemblyInfo.cs
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.csproj.CoreCompileInputs.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.dll
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\refint\Episode 1.dll
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.pdb
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\Episode 1.genruntimeconfig.cache
+C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\obj\Debug\net6.0\ref\Episode 1.dll

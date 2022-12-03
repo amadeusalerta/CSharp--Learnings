@@ -1,0 +1,5 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: Episode 1, Yapılandırma: Debug Any CPU ------
+1>Yapıyı hızlandırmak için çözümleyiciler atlanıyor. Çözümleyicileri çalıştırmak için 'Oluştur' veya 'Yeniden Oluştur' komutunu çalıştırabilirsiniz.
+1>Episode 1 -> C:\Users\amadeusa\Desktop\My Works\C# Works\C# Learnings\Bro Code\Episode 1\Episode 1\bin\Debug\net6.0\Episode 1.dll
+========== Derleme: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
