@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amadeusa\\Desktop\\My Works\\C# Works\\C# Learnings\\Bro Code\\Episode 1\\Episode 1\\Episode 1.csproj": {}
+    "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amadeusa\\Desktop\\My Works\\C# Works\\C# Learnings\\Bro Code\\Episode 1\\Episode 1\\Episode 1.csproj": {
+    "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amadeusa\\Desktop\\My Works\\C# Works\\C# Learnings\\Bro Code\\Episode 1\\Episode 1\\Episode 1.csproj",
+        "projectUniqueName": "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj",
         "projectName": "Episode 1",
-        "projectPath": "C:\\Users\\amadeusa\\Desktop\\My Works\\C# Works\\C# Learnings\\Bro Code\\Episode 1\\Episode 1\\Episode 1.csproj",
+        "projectPath": "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj",
         "packagesPath": "C:\\Users\\amadeusa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amadeusa\\Desktop\\My Works\\C# Works\\C# Learnings\\Bro Code\\Episode 1\\Episode 1\\obj\\",
+        "outputPath": "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amadeusa\\AppData\\Roaming\\NuGet\\NuGet.Config",
