@@ -113,11 +113,11 @@ public class CardHolder
         }
 
         List<CardHolder> cardHolders= new List<CardHolder>();
-        cardHolders.Add(new CardHolder("5357158565741238", 1234, "Efe", "Altınbaş", 315.23));
-        cardHolders.Add(new CardHolder("5357153465124460", 2336, "Furkan", "Ülker", 471.98));
-        cardHolders.Add(new CardHolder("5357867165366223", 4214, "Doğa", "Deniz", 861.73));
-        cardHolders.Add(new CardHolder("5357151265851276", 9966, "Ahmet", "Gör", 199.45));
-        cardHolders.Add(new CardHolder("5357157865003149", 8545, "Volkan", "Aykut", 513.32));
+        cardHolders.Add(new CardHolder("5357158565741238", 1234, "Abraham", "Sweetvoice", 315.23));
+        cardHolders.Add(new CardHolder("5357153465124460", 2336, "Ömer", "Hayyam", 471.98));
+        cardHolders.Add(new CardHolder("5357867165366223", 4214, "Fikret", "Fırıldak", 861.73));
+        cardHolders.Add(new CardHolder("5357151265851276", 9966, "Jalal", "Shengoor", 199.45));
+        cardHolders.Add(new CardHolder("5357157865003149", 8545, "Sergen", "Katmer", 513.32));
 
         Console.WriteLine("Welcome to SimpleATM Machine");
         Console.WriteLine("Please enter your Debit Card Number");
