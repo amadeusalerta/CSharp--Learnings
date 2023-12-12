@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj": {}
+    "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj": {
+    "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj",
+        "projectUniqueName": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj",
         "projectName": "Episode 1",
-        "projectPath": "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj",
-        "packagesPath": "C:\\Users\\amadeusa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amadeusa\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\obj\\",
+        "projectPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\Episode 1.csproj",
+        "packagesPath": "C:\\Users\\efe33\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\CSharp--Learnings\\Episode 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\amadeusa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\efe33\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
